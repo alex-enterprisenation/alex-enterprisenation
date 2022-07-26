@@ -3,19 +3,19 @@
 <img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
  ###      Allow me to introduce myself &nbsp; 👋  &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alex-enterprisenation)
- -  :school: &nbsp;&nbsp; I'm [Alex](https://www.linkedin.com/in/petrut-alex/), a **Software Engineer** from Bucharest, Romania.
- -  🌱 &nbsp;&nbsp; Currently learning everything 😹  &nbsp; **Kudos to Coursera, Educative.io & Pluralsight**.
- -  :neutral_face: &nbsp;&nbsp; I have a **love/hate** relationship with **Game Development and Multilingual Programming**.
- -  😄 &nbsp;&nbsp; Occasionaly - I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance Next.js knowledge.
- -  ⚡ &nbsp;&nbsp; Fun fact: I enjoy playing tennis and taking my pup **Freya** (pic) out for walks / car trips.
+ -  :school: &nbsp;&nbsp; I'm [Freya](https://www.linkedin.com/in/petrut-alex/), a **Software Engineer's dog** from Bucharest, Romania.
+ -  🌱 &nbsp;&nbsp; Currently making Alex learn everything 😹  &nbsp; **Kudos to Coursera, Educative.io & Pluralsight**.
+ -  :neutral_face: &nbsp;&nbsp; He has a **love/hate** relationship with **Game Development and Multilingual Programming**.
+ -  😄 &nbsp;&nbsp; Occasionaly - he does participate in online **Hackathons / Game (dev) Jams**.
+ -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance Next.js knowledge (and dog food knowledge, please).
+ -  ⚡ &nbsp;&nbsp; Fun fact: I enjoy taking my owner out for walks / car trips.
 
 
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools (human section)
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
