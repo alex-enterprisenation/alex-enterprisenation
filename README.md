@@ -7,7 +7,7 @@
  -  🌱 &nbsp;&nbsp; Currently making Alex learn everything 😹  &nbsp; **Kudos to Coursera, Educative.io & Pluralsight**.
  -  :neutral_face: &nbsp;&nbsp; He has a **love/hate** relationship with **Game Development and Multilingual Programming**.
  -  😄 &nbsp;&nbsp; Occasionaly - he does participate in online **Hackathons / Game (dev) Jams**.
- -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance Next.js knowledge (and dog food knowledge, please).
+ -  🥅  &nbsp;&nbsp; **Goals**: Enhance FrontEnd & AI knowledge (and dog food knowledge, please).
  -  ⚡ &nbsp;&nbsp; Fun fact: I enjoy taking my owner out for walks / car trips.
 
 
