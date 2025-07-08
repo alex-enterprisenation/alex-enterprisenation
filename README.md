@@ -6,10 +6,6 @@
 
 ### Software Architect & AI Integration Specialist
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alex-enterprisenation.alex-enterprisenation&style=flat-square&color=0088cc" alt="visitors" />
-</p>
-
 ---
 
 </div>
