@@ -7,7 +7,7 @@
 I design maintainable backend, cloud, AI, and product systems that turn messy business workflows into secure, observable, production-ready platforms — and I’m extending that same architecture mindset into 3D games, creative tools, and AI-assisted gameplay systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Popa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrut-alex/)
-[![Indie Game Studio GitHub Profile](https://img.shields.io/badge/GitHub-alex--enterprisenation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/storymixlab)
+[![Indie Game Studio GitHub Profile](https://img.shields.io/badge/GitHub-alex--enterprisenation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexandrupetrut)
 [![Location](https://img.shields.io/badge/Bucharest-Romania-1f6feb?style=flat-square)](#)
 
 </div>
